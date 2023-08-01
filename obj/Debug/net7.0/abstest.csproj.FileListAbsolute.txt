@@ -1,0 +1,15 @@
+C:\Users\sepehrrayaneh\Desktop\abstest\bin\Debug\net7.0\abstest.exe
+C:\Users\sepehrrayaneh\Desktop\abstest\bin\Debug\net7.0\abstest.deps.json
+C:\Users\sepehrrayaneh\Desktop\abstest\bin\Debug\net7.0\abstest.runtimeconfig.json
+C:\Users\sepehrrayaneh\Desktop\abstest\bin\Debug\net7.0\abstest.dll
+C:\Users\sepehrrayaneh\Desktop\abstest\bin\Debug\net7.0\abstest.pdb
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.csproj.AssemblyReference.cache
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.AssemblyInfoInputs.cache
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.AssemblyInfo.cs
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.csproj.CoreCompileInputs.cache
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.dll
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\refint\abstest.dll
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.pdb
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\abstest.genruntimeconfig.cache
+C:\Users\sepehrrayaneh\Desktop\abstest\obj\Debug\net7.0\ref\abstest.dll
